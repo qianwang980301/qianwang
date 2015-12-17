@@ -1,0 +1,10 @@
+<launch>
+<node name="ahandtest" pkg="gripperhand" type="ahandtest"/>
+<node name="bhandtest" pkg="gripperhand" type="bhandtest"/>
+<node name="chandtest" pkg="gripperhand" type="chandtest"/>
+<node name="dhandtest" pkg="gripperhand" type="dhandtest"/>
+<node name="ehandtest" pkg="gripperhand" type="ehandtest"/>
+<node name="fhandtest" pkg="gripperhand" type="fhandtest"/>
+<node name="ghandtest" pkg="gripperhand" type="ghandtest"/>
+
+</launch>
